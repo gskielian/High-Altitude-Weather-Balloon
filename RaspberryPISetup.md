@@ -52,4 +52,11 @@ MessageContent="555342431234567824000000800108df200000000000000000000000000000"
 
 ##############################################################
 ```
-[Link to Source](http://www.draisberghof.de/usb_modeswitch/bb/viewtopic.php?t=623)
+
+Finally edit the network interfaces:
+```bash
+sudo vim /etc/network/interfaces
+```
+
+###Credits
+[Link to the forum from which I am drawing most of this from](http://www.draisberghof.de/usb_modeswitch/bb/viewtopic.php?t=623)
