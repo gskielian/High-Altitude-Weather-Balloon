@@ -10,5 +10,3 @@ while 1 :
     f.write(ser.readline())
     f.close()
     f = open('dataFile.txt','a')
-
-
