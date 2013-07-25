@@ -46,7 +46,7 @@ sudo gammu --identify
 ```
 
 ```bash
-echo "Wassup" | sudo gammu sendsms TEXT 14154652008
+echo "Wassup" | sudo gammu sendsms TEXT 14085555555
 ```
 
 Tutorials referenced:
