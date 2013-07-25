@@ -2,7 +2,6 @@
 
 import serial
 
-
 ser = serial.Serial('/dev/tty.usbmodem1421',115200)
 f = open('dataFile.txt','a')
 
