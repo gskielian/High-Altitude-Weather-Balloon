@@ -34,7 +34,12 @@ MessageContent="55534243123456780000000000000011062000000100000000000000000000"
 
 ```bash
 sudo usb_modeswitch -I -W -c /etc/usb_modeswitch.d/E173.conf`
+````
+*Sometimes this doesn't work -- if try unplugging and replugging the 3G Module and make another attempt.
 
+
+
+```bash
 sudo apt-get install gammu
 sudo gammu-config
 ```
@@ -48,6 +53,8 @@ sudo gammu --identify
 ```bash
 echo "Wassup" | sudo gammu sendsms TEXT 14085555555
 ```
+
+
 
 Tutorials referenced:
 http://www.raspberrypi.org/phpBB3/viewtopic.php?f=66&t=12720
