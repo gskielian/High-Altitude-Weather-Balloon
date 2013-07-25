@@ -31,5 +31,11 @@ finally we send an email:
 echo "Hello World I am 3m417" | mail -s "Hi from Pi" sendaddress@gmail.com
 ```
 
+Sending an Attachment:
+```bash
+mpack -s "test" -a ./theAttachment.txt sendaddress@gmail.com
+```
+
+
 ##Tutorial Referenced
 http://rpi.tnet.com/project/faqs/smtp
