@@ -11,7 +11,23 @@ sudo aptitude install usb-modeswitch -y
 
 `sudo vim /etc/modules`
 
-`sudo vim/etc/usb_modeswitch.d/E173.conf`
+`sudo vim /etc/usb_modeswitch.d/E173.conf`
+
+```bash
+####################
+# Huawei, newer modems
+
+DefaultVendor=0x12d1
+DefaultProduct=0x1446
+
+TargetVendor= 0x12d1
+TargetProduct=0x1436
+
+CheckSuccess=20
+
+```
+
+
 
 `sudo shutdown -h now`
 
