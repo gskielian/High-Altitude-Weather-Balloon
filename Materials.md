@@ -10,3 +10,7 @@ Materials
 7. High Altitude Weather Balloon
 8. Helium Dewar
 9. Styrofoam Container
+10. Jumper Cables
+11. Hand Warmers
+12. 9v Batteries
+13. Voltage Regulator
