@@ -11,6 +11,9 @@ Open up the terminal and enter the following command:
 sudo apt-get install -y ssmtp mailutils mpack
 ```
 
+
+### Step 4: Configure the Mail Utility
+
 Next we need to add your information to the configuration file
 ```bash
 sudo vim /etc/ssmtp/ssmtp.conf
@@ -25,7 +28,7 @@ AuthUser=yourusername@gmail.com
 AuthPass=yourpassword
 useSTARTTLS=YES
 ```
-
+### Step 5:  Automate your mailbox :shipit:
 finally we send an email:
 ```bash
 echo "Hello World I am 3m417" | mail -s "Hi from Pi" sendaddress@gmail.com
