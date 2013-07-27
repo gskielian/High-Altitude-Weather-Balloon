@@ -8,5 +8,5 @@ Materials
 4. Arduino Uno Rev3
 5. Adafruit GPS Module
 7. High Altitude Weather Balloon
-8. Helium Dewar
+8. Helium Gas Tank
 9. Styrofoam Container
