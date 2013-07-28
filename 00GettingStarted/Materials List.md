@@ -21,7 +21,7 @@ Power Block:
 
 11. 9V Batteries
 12. 9V Battery Holders
-13. Voltage Regulator
+13. 5V Voltage Regulator
 
 
 
