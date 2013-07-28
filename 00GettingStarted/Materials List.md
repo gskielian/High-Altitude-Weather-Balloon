@@ -25,11 +25,7 @@ Power Block:
 
 
 
-
-
-
-
-Tools
+Tools:
 
 1. Zip-Tie Cutter
 2. Wrench
