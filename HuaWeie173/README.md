@@ -44,7 +44,7 @@ sudo apt-get install gammu
 sudo gammu-config
 ```
 
-insert photos here of the setup
+<insert photos here of the setup>
 
 ```bash
 sudo gammu --identify
