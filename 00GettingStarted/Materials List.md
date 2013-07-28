@@ -11,12 +11,14 @@ Weather Balloon Assembly
 6. Hand Warmers
 
 Devices:
+
 7. Arduino
 8. Raspberry Pi
 9. GPS Module
 10. 3G Modem 
 
 Power Block:
+
 11. 9V Batteries
 12. 9V Battery Holders
 13. Voltage Regulator
@@ -28,6 +30,7 @@ Power Block:
 
 
 Tools
+
 1. Zip-Tie Cutter
 2. Wrench
 3. Saw for cutting Styrofoam
